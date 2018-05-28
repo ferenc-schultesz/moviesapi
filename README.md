@@ -6,7 +6,6 @@ Technology used:
 
 ## What I would add / polish
 - Unit testing for each controller method
-- More sophisticated filtering method for Movies resources
 - Customize Swagger
 - Add comments to the code
-- Add the project to CircleCI and deploy it on Heroku
+- Add the project to CircleCI and deploy it on Heroku (probably with container)
